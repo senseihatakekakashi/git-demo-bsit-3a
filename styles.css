@@ -3,3 +3,13 @@ body {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+p {
+    background-color: white;
+    color: black;
+}
